@@ -4,7 +4,7 @@
 
 ### 可用工具
 
-- **HCA.py** - 根据输入的csv（genes * samples形式，热图是gene在各个样本中的表达来构建的）进行HCA（层次聚类分析）
+- **HCA.py** - 根据输入的csv（genes * samples形式）进行HCA（层次聚类分析）
   `python HCA.py -h`
 
 ### 使用说明
