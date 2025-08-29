@@ -6,7 +6,7 @@
 
 - **HCA.py** - 根据输入的csv（genes * samples形式，内置VST/Z-score标准化）进行HCA（层次聚类分析）
   `python HCA.py -h`
-
+- **AS2_PCA** - 适配AUTOVAR结果的AS2值计算和PCA分析
 ### 使用说明
 
 每个工具均支持`-h`参数查看详细使用帮助和参数说明。
